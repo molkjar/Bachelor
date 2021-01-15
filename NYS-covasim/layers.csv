@@ -1,0 +1,5 @@
+layer,contacts,proportion,beta_layer,age_lb,age_ub,cluster_type,dispersion,dynamic,
+H,2.5,,1,,,home,,,
+S,27,,0.09,,,school,,,
+W,10,,0.09,,,work,,,
+C1,7,1,0.19,,,random,1.5,y,
